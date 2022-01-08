@@ -10,7 +10,7 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-sm navbar-light bg-white">
             <div className="container">
-                <Link className="navbar-brand" to="/">
+                <Link className="navbar-brand" to="/airlines">
                     <img src={airlines} height="50px" />
                 </Link>
 
