@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/airlines/static/css/main.1a8a8a49.chunk.css",
+    "main.js": "/airlines/static/js/main.f5c6a6be.chunk.js",
+    "main.js.map": "/airlines/static/js/main.f5c6a6be.chunk.js.map",
+    "runtime-main.js": "/airlines/static/js/runtime-main.b1bd41c7.js",
+    "runtime-main.js.map": "/airlines/static/js/runtime-main.b1bd41c7.js.map",
+    "static/js/2.19145aa2.chunk.js": "/airlines/static/js/2.19145aa2.chunk.js",
+    "static/js/2.19145aa2.chunk.js.map": "/airlines/static/js/2.19145aa2.chunk.js.map",
+    "static/js/3.c9029ac8.chunk.js": "/airlines/static/js/3.c9029ac8.chunk.js",
+    "static/js/3.c9029ac8.chunk.js.map": "/airlines/static/js/3.c9029ac8.chunk.js.map",
+    "index.html": "/airlines/index.html",
+    "static/css/main.1a8a8a49.chunk.css.map": "/airlines/static/css/main.1a8a8a49.chunk.css.map",
+    "static/js/2.19145aa2.chunk.js.LICENSE.txt": "/airlines/static/js/2.19145aa2.chunk.js.LICENSE.txt",
+    "static/media/Student.4d46b51c.jpg": "/airlines/static/media/Student.4d46b51c.jpg",
+    "static/media/airlines.a54adefe.jpg": "/airlines/static/media/airlines.a54adefe.jpg",
+    "static/media/new.098e067d.jpeg": "/airlines/static/media/new.098e067d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1bd41c7.js",
+    "static/js/2.19145aa2.chunk.js",
+    "static/css/main.1a8a8a49.chunk.css",
+    "static/js/main.f5c6a6be.chunk.js"
+  ]
+}
