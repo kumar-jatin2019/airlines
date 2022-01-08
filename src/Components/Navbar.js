@@ -19,9 +19,9 @@ const Navbar = () => {
                     <ul className="navbar-nav mr-auto"></ul>
                     <ul className="navbar-nav align-items-center">
                         <li className="nav-item">
-                            <Link  className="btn btn-primary mr-3" to = {'/AddPassenger'} >
+                            {/* <Link  className="btn btn-primary mr-3" to = {'/AddPassenger'} >
                             Add Airlines
-                            </Link>
+                            </Link> */}
                            
                         </li>
                         <li className="nav-item dropdown">
