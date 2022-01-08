@@ -27,7 +27,7 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route exact path="/" element={<Passengers />} />
+          <Route exact path="/airlines" element={<Passengers />} />
           <Route exact path="/ViewPassenger" element={<ViewPassenger />} />
           <Route exact path="/Passenger/:id" element={<Passenger/>} />
           <Route exact path="/AddPassenger" element={<AddPassenger/>} />
